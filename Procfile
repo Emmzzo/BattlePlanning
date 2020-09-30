@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/pbpmtool-1.0.jar -Dserver.port=$PORT $JAR_OPTS

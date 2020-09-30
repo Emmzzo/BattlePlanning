@@ -6,10 +6,13 @@ rw\battle\planning\services\CustomUserDetailsService.class
 rw\battle\planning\validator\UserValidator.class
 rw\battle\planning\security\JwtTokenProvider.class
 rw\battle\planning\security\JwtAuthenticationFilter.class
+rw\battle\planning\PbpmtoolApplication.class
 rw\battle\planning\payload\JWTLoginSucessReponse.class
 rw\battle\planning\security\JwtAuthenticationEntryPoint.class
 rw\battle\planning\services\MapValidationErrorService.class
+rw\battle\planning\web\ProjectController.class
 rw\battle\planning\domain\ProjectTask.class
+rw\battle\planning\repository\ProjectRepository.class
 rw\battle\planning\exceptions\UsernameAlreadyExistsResponse.class
 rw\battle\planning\services\ProjectTaskService.class
 rw\battle\planning\repository\UserRepository.class
@@ -25,4 +28,6 @@ rw\battle\planning\payload\LoginRequest.class
 rw\battle\planning\security\SecurityConfig.class
 rw\battle\planning\exceptions\InvalidLoginResponse.class
 rw\battle\planning\security\SecurityConstants.class
+rw\battle\planning\domain\Project.class
 rw\battle\planning\domain\Backlog.class
+rw\battle\planning\services\ProjectService.class
